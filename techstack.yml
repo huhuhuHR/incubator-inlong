@@ -1,0 +1,3222 @@
+repo_name: huhuhuHR/incubator-inlong
+report_id: 9b1641a64aea24c753685a97c0577bd9
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:46:12+00:00'
+requested_by: luchunliang
+provider: github
+branch: master
+detected_tools_count: 252
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/src/main/resources/sql/apache_inlong_audit.sql
+  detection_source: inlong-audit/audit-store/src/main/resources/sql/apache_inlong_audit.sql
+  last_updated_by: healchow
+  last_updated_on: 2022-03-12 08:39:09.000000000 Z
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Ant Design
+  description: A set of high-quality React components
+  website_url: https://ant.design
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6112/12101536.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2023-03-31 06:40:22.000000000 Z
+- name: ECharts
+  description: A free, powerful charting and visualization library
+  website_url: https://echarts.apache.org/en/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/4230/aSzYQa43_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-01-20 04:47:45.000000000 Z
+- name: Netty
+  description: Asynchronous event-driven network application framework
+  website_url: http://netty.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/3278/netty_icon_256px.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk/src/main/java/org/apache/inlong/sdk/dataproxy/network/NettyClient.java
+  detection_source: inlong-sdk/dataproxy-sdk/src/main/java/org/apache/inlong/sdk/dataproxy/network/NettyClient.java
+  last_updated_by: baomingyu
+  last_updated_on: 2022-03-04 02:32:02.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-common/pom.xml
+  detection_source: inlong-audit/audit-common/pom.xml
+  last_updated_by: AloysZhang
+  last_updated_on: 2022-12-09 14:17:50.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: Amazon S3
+  description: Store and retrieve any amount of data, at any time, from anywhere on
+    the web
+  website_url: http://aws.amazon.com/s3
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/25/amazon-s3.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/base/pom.xml
+  detection_source: inlong-sort/sort-flink/base/pom.xml
+  last_updated_by: yunqingmoswu
+  last_updated_on: 2022-11-29 07:46:47.000000000 Z
+- name: Apache Flink
+  description: Fast and reliable large-scale data processing engine
+  website_url: https://flink.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/2968/kQB_QIB_.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-09 09:31:17.000000000 Z
+- name: Apache Pulsar
+  description: Distributed solution providing messaging and queuing for streaming
+    data
+  website_url: https://pulsar.apache.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/5706/wFcLUbwd_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-03-13 02:20:42.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: Yuanhao Ji
+  last_updated_on: 2022-04-28 06:08:51.000000000 Z
+- name: Debezium
+  description: An open source distributed platform for change data capture
+  website_url: https://debezium.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/10655/IkKA5JgJ_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/mongodb-cdc/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/mongodb-cdc/pom.xml
+  last_updated_by: emhui
+  last_updated_on: 2023-03-06 11:08:57.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-test/pom.xml
+  detection_source: inlong-manager/manager-test/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2023-06-05 02:24:40.000000000 Z
+- name: HBase
+  description: The Hadoop database, a distributed, scalable, big data store
+  website_url: http://hbase.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1043/HBase-Twitter3.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Hadoop
+  description: Open-source software for reliable, scalable, distributed computing
+  website_url: http://hadoop.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1044/elephant_rgb_sq.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2022-07-11 06:34:05.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-03-13 02:20:42.000000000 Z
+- name: MQTT
+  description: A machine-to-machine Internet of Things connectivity protocol
+  website_url: http://mqtt.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: MSSQL
+  description: It is an enterprise-level database system that is very popular for
+    Windows web servers
+  website_url: https://www.microsoft.com/en-us/sql-server
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-08-01 04:55:49.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  last_updated_by: EpicMo
+  last_updated_on: 2023-10-09 10:46:16.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  last_updated_by: Curry-CPU
+  last_updated_on: 2023-10-13 08:28:37.000000000 Z
+- name: MyBatis
+  description: SQL Mapper Framework for Java
+  website_url: http://www.mybatis.org/mybatis-3/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5582/1483254.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2021-12-03 03:12:23.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: dockerzhang
+  last_updated_on: 2021-08-13 10:16:56.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: iamsee123
+  last_updated_on: 2022-08-17 02:22:18.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-04 03:38:39.000000000 Z
+- name: RocksDB
+  description: Embeddable persistent key-value store for fast storage, developed and
+    maintained by Facebook Database Engineering Team
+  website_url: http://rocksdb.org/
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2432/81KLTHHZ.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2023-02-07 09:21:42.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/.eslintrc
+  detection_source: inlong-dashboard/.eslintrc
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: FindBugs
+  description: An open-source static code analyser
+  website_url: http://findbugs.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-common/pom.xml
+  detection_source: inlong-sort/sort-common/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/.github/workflows/ci_build.yml
+  detection_source: ".github/workflows/ci_build.yml"
+  last_updated_by: Hao
+  last_updated_on: 2023-05-25 07:10:56.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: '4.11'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-connectors/tubemq-connector-flume/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: ganfengtan
+  last_updated_on: 2022-08-05 07:44:44.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-03-04 02:32:02.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/nginx.conf
+  detection_source: inlong-dashboard/nginx.conf
+  last_updated_by: dockerzhang
+  last_updated_on: 2021-07-23 10:36:03.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Yuanhao Ji
+  last_updated_on: 2021-12-13 02:13:17.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-client-twins/tubemq-client-python/requirements.txt
+  detection_source: inlong-tubemq/tubemq-client-twins/tubemq-client-python/requirements.txt
+  last_updated_by: gosonzhang
+  last_updated_on: 2020-11-03 03:08:35.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: StatusDashboard
+  description: Securely hosted status page and incident communication platform
+  website_url: https://www.statusdashboard.com
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Status Page Hosting
+  image_url: https://img.stackshare.io/service/20978/default_5e0d0d0d49c7be12365af8948cf5e5fa1a57835c.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: J·Y
+  last_updated_on: 2023-04-04 02:03:01.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 14.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: TestNG
+  description: A testing framework inspired from JUnit and NUnit
+  website_url: http://testng.org/doc/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dataproxy/pom.xml
+  detection_source: inlong-dataproxy/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Testify
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  website_url: https://github.com/stretchr/testify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Go Testing
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-client-twins/tubemq-client-go/go.mod
+  detection_source: inlong-tubemq/tubemq-client-twins/tubemq-client-go/go.mod
+  last_updated_by: Zijie Lu
+  last_updated_on: 2021-05-10 10:46:52.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-docker/tubemq-all/Dockerfile
+  detection_source: inlong-tubemq/tubemq-docker/tubemq-all/Dockerfile
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-02-27 01:38:04.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/conf/application.properties
+  detection_source: inlong-audit/conf/application.properties
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-10-14 06:18:16.000000000 Z
+- name: Dataform
+  description: A framework for managing SQL based data operations.
+  website_url: https://dataform.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: chestnufang
+  last_updated_on: 2023-06-20 06:32:03.000000000 Z
+- name: AuditShark
+  description: AuditShark scans your servers against best practice security configurations.
+  website_url: http://www.auditshark.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/351/48331d9fe70845251bc18c1914bdfa0c_normal.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-10-31 10:48:28.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: xueyingzhang
+  last_updated_on: 2022-01-20 12:10:54.000000000 Z
+- name: FreeAgent
+  description: Award-winning cloud accounting designed to meet the needs of small
+    businesses, freelancers and their accountants
+  website_url: https://www.freeagent.com/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Accounting
+  image_url: https://img.stackshare.io/service/1862/default_c94c32a4e30e1943b83cdf4084ca1d66ee6fa801.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/docker/docker-compose/docker-compose.yml
+  detection_source: docker/docker-compose/docker-compose.yml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-10-31 10:48:28.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong
+  detection_source: Repo Metadata
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: i18next
+  description: Internationalization-framework written in and for JavaScript
+  website_url: https://www.i18next.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Translation Service
+  image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: com.google.protobuf:protobuf-java
+  description: Core Protocol Buffers library
+  version: 2.5.0
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-formats/format-common/pom.xml
+  detection_source: inlong-audit/audit-common/pom.xml
+  last_updated_by: AloysZhang
+  last_updated_on: 2022-12-09 14:17:50.000000000 Z
+  vulnerabilities:
+  - name: NULL Pointer Dereference in Protocol Buffers
+    cve_id: CVE-2021-22570
+    cve_url: https://github.com/advisories/GHSA-77rm-9x9h-xj3g
+    detected_date: Aug 8
+    severity: high
+    first_patched: 3.15.0
+  - name: Protobuf Java vulnerable to Uncontrolled Resource Consumption
+    cve_id: CVE-2022-3510
+    cve_url: https://github.com/advisories/GHSA-4gg5-vx3j-xwc7
+    detected_date: Dec 20
+    severity: high
+    first_patched: 3.16.3
+  - name: Protobuf Java vulnerable to Uncontrolled Resource Consumption
+    cve_id: CVE-2022-3509
+    cve_url: https://github.com/advisories/GHSA-g5ww-5jh7-63cx
+    detected_date: Dec 13
+    severity: high
+    first_patched: 3.16.3
+  - name: A potential Denial of Service issue in protobuf-java
+    cve_id: CVE-2021-22569
+    cve_url: https://github.com/advisories/GHSA-wrvw-hg22-4m67
+    detected_date: Jan 8
+    severity: high
+    first_patched: 3.16.1
+  - name: protobuf-java has a potential Denial of Service issue
+    cve_id: CVE-2022-3171
+    cve_url: https://github.com/advisories/GHSA-h4h5-3hr4-j3g2
+    detected_date: Oct 5
+    severity: moderate
+    first_patched: 3.16.3
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.11'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-connectors/tubemq-connector-flume/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: com.alibaba:druid-spring-boot-starter
+  description: Spring Boot with Druid support,help you simplify Druid config in Spring
+    Boot
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: com.alibaba:fastjson
+  description: Fastjson is a JSON processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/pom.xml
+  detection_source: inlong-sdk/pom.xml
+  last_updated_by: 卢春亮
+  last_updated_on: 2022-02-10 07:20:54.000000000 Z
+- name: com.amazonaws:aws-java-sdk-s3
+  description: The AWS Java SDK for Amazon S3 module holds the client classes that
+    is used for communicating with Amazon Simple Storage Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/base/pom.xml
+  detection_source: inlong-sort/sort-flink/base/pom.xml
+  last_updated_by: yunqingmoswu
+  last_updated_on: 2022-11-29 07:46:47.000000000 Z
+- name: com.beust:jcommander
+  description: Command line parser library for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-client-tools/pom.xml
+  detection_source: inlong-manager/manager-client-tools/pom.xml
+  last_updated_by: haifxu
+  last_updated_on: 2022-09-17 09:03:28.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-common/pom.xml
+  detection_source: inlong-common/pom.xml
+  last_updated_by: Schnapps
+  last_updated_on: 2023-04-19 11:08:26.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-plugins/base/pom.xml
+  detection_source: inlong-manager/manager-plugins/base/pom.xml
+  last_updated_by: haifxu
+  last_updated_on: 2023-07-10 12:36:53.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+  description: Support for reading and writing YAML-encoded data via Jackson abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: chestnufang
+  last_updated_on: 2023-06-20 06:32:03.000000000 Z
+- name: com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+  description: Add-on module to support JSR-310
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: chestnufang
+  last_updated_on: 2023-06-20 06:32:03.000000000 Z
+- name: com.fasterxml.woodstox:woodstox-core
+  description: Woodstox is a high-performance XML processor that implements Stax
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: castor
+  last_updated_on: 2023-09-17 14:01:01.000000000 Z
+- name: com.github.ben-manes.caffeine:caffeine
+  description: A high performance caching library for Java 8+
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: castor
+  last_updated_on: 2023-09-17 14:01:01.000000000 Z
+- name: com.github.jsqlparser:jsqlparser
+  description: JSqlParser parses an SQL statement and translate it into a hierarchy
+    of Java classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-common/pom.xml
+  detection_source: inlong-common/pom.xml
+  last_updated_by: Schnapps
+  last_updated_on: 2023-04-19 11:08:26.000000000 Z
+- name: com.google.code.findbugs:jsr305
+  description: JSR305 Annotations for Findbugs
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-common/pom.xml
+  detection_source: inlong-sort/sort-common/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: justinwwhuang
+  last_updated_on: 2023-10-27 06:34:04.000000000 Z
+- name: com.h2database:h2
+  description: H2 Database Engine
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-test/pom.xml
+  detection_source: inlong-manager/manager-test/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2023-06-05 02:24:40.000000000 Z
+- name: com.microsoft.sqlserver:mssql-jdbc
+  description: Microsoft JDBC 4.1 Driver for SQL Server
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  last_updated_by: EpicMo
+  last_updated_on: 2023-10-09 10:46:16.000000000 Z
+- name: com.opencsv:opencsv
+  description: A simple library for reading and writing CSV in Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-web/pom.xml
+  detection_source: inlong-manager/manager-web/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: com.sleepycat:je
+  description: Berkeley DB Java Edition is a open source, transactional storage solution
+    for Java applications
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: Zfancy
+  last_updated_on: 2023-09-06 03:01:18.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-workflow/pom.xml
+  detection_source: inlong-manager/manager-workflow/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: com.squareup.retrofit2:converter-jackson
+  description: Type-safe HTTP client for Android and Java by Square, Inc
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-client/pom.xml
+  detection_source: inlong-manager/manager-client/pom.xml
+  last_updated_by: haifxu
+  last_updated_on: 2022-09-17 09:03:28.000000000 Z
+- name: com.typesafe.akka:akka-stream_2.11
+  description: Akka-stream
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-core/pom.xml
+  detection_source: inlong-agent/agent-core/pom.xml
+  last_updated_by: jiancheng Lv
+  last_updated_on: 2022-03-03 04:44:54.000000000 Z
+- name: com.zaxxer:HikariCP
+  description: Ultimate JDBC Connection Pool
+  version: 4.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/postgres-cdc/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/postgres-cdc/pom.xml
+  last_updated_by: kuansix
+  last_updated_on: 2023-09-15 02:50:26.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-common/pom.xml
+  detection_source: inlong-common/pom.xml
+  last_updated_by: xueyingzhang
+  last_updated_on: 2022-12-02 02:21:40.000000000 Z
+- name: commons-dbutils:commons-dbutils
+  description: The Apache Commons DbUtils package is a set of Java utility classes
+    for easing JDBC development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: io.fabric8:kubernetes-client
+  description: Java client for Kubernetes &amp; OpenShift
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2022-10-26 10:39:59.000000000 Z
+- name: io.netty:netty
+  description: The Netty project is an effort to provide an asynchronous event-driven
+    network application framework and tools for rapid development of maintainable
+    high performance and high sc...
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk/pom.xml
+  detection_source: inlong-sdk/dataproxy-sdk/pom.xml
+  last_updated_by: castor
+  last_updated_on: 2023-11-09 06:56:30.000000000 Z
+- name: io.netty:netty-buffer
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-common/pom.xml
+  detection_source: inlong-audit/audit-common/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-06 07:29:30.000000000 Z
+- name: io.netty:netty-codec
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-proxy/pom.xml
+  detection_source: inlong-audit/audit-proxy/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-06 07:29:30.000000000 Z
+- name: io.netty:netty-common
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-proxy/pom.xml
+  detection_source: inlong-audit/audit-proxy/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-06 07:29:30.000000000 Z
+- name: io.netty:netty-handler
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-proxy/pom.xml
+  detection_source: inlong-audit/audit-proxy/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-06 07:29:30.000000000 Z
+- name: io.netty:netty-transport
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-proxy/pom.xml
+  detection_source: inlong-audit/audit-proxy/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-06 07:29:30.000000000 Z
+- name: io.netty:netty-transport-native-epoll
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-proxy/pom.xml
+  detection_source: inlong-audit/audit-proxy/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-06 07:29:30.000000000 Z
+- name: io.prometheus:simpleclient
+  description: Prometheus Java Client Metrics, Next Generation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-14 03:59:55.000000000 Z
+- name: io.prometheus:simpleclient_hotspot
+  description: Collectors of data from Java Hotspot
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-14 03:59:55.000000000 Z
+- name: io.springfox:springfox-spring-web
+  description: JSON API documentation for spring based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-manager/pom.xml
+  detection_source: inlong-tubemq/tubemq-manager/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: io.springfox:springfox-swagger-ui
+  description: JSON API documentation for spring based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-manager/pom.xml
+  detection_source: inlong-tubemq/tubemq-manager/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: io.swagger:swagger-annotations
+  description: Examples and server integrations for generating the Swagger API Specification
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-client/pom.xml
+  detection_source: inlong-manager/manager-client/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: log4j:log4j
+  description: Apache Log4j 1.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: doleyzi
+  last_updated_on: 2023-01-14 15:52:31.000000000 Z
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-core/pom.xml
+  detection_source: inlong-sort/sort-core/pom.xml
+  last_updated_by: Hao
+  last_updated_on: 2023-12-12 03:03:36.000000000 Z
+- name: net.bytebuddy:byte-buddy
+  description: Byte Buddy is a Java library for creating Java classes at run time
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-manager/pom.xml
+  detection_source: inlong-tubemq/tubemq-manager/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: '3.10'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-manager/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: thesumery
+  last_updated_on: 2022-12-29 06:52:47.000000000 Z
+- name: org.apache.commons:commons-text
+  description: Apache Commons Text is a library focused on algorithms working on strings
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/pom.xml
+  detection_source: inlong-audit/pom.xml
+  last_updated_by: doleyzi
+  last_updated_on: 2023-08-17 10:15:25.000000000 Z
+- name: org.apache.flink:flink-clients
+  description: Apache Flink
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.15/sort-flink-dependencies/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.15/sort-flink-dependencies/pom.xml
+  last_updated_by: vernedeng
+  last_updated_on: 2023-09-18 03:59:16.000000000 Z
+- name: org.apache.flink:flink-clients_2.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/kudu/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/kudu/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-02-01 04:48:18.000000000 Z
+- name: org.apache.flink:flink-core
+  description: The Apache Software Foundation provides support for the Apache community
+    of open-source software projects
+  version: 1.15.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-plugins/manager-plugins-flink-v1.15/pom.xml
+  detection_source: inlong-manager/manager-plugins/manager-plugins-flink-v1.15/pom.xml
+  last_updated_by: haifxu
+  last_updated_on: 2023-07-10 12:36:53.000000000 Z
+- name: org.apache.flink:flink-runtime
+  description: Apache Flink
+  version: 1.15.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  last_updated_by: Hao
+  last_updated_on: 2023-12-12 03:03:36.000000000 Z
+- name: org.apache.flink:flink-runtime_2.11
+  version: 1.13.5
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.13/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.13/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-08-01 04:55:49.000000000 Z
+- name: org.apache.flink:flink-streaming-java_2.11
+  version: 1.13.5
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-connectors/tubemq-connector-flink/pom.xml
+  detection_source: inlong-tubemq/tubemq-connectors/tubemq-connector-flink/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.apache.flink:flink-test-utils
+  description: Apache Flink
+  version: 1.15.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.15/pom.xml
+  last_updated_by: Hao
+  last_updated_on: 2023-12-12 03:03:36.000000000 Z
+- name: org.apache.flink:flink-test-utils-junit
+  description: The Apache Software Foundation provides support for the Apache community
+    of open-source software projects
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/pom.xml
+  detection_source: inlong-sort/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-08-01 04:55:49.000000000 Z
+- name: org.apache.flink:flink-test-utils_2.11
+  version: 1.13.5
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.13/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.13/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-08-01 04:55:49.000000000 Z
+- name: org.apache.flume:flume-ng-core
+  version: 1.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-connectors/tubemq-connector-flume/pom.xml
+  detection_source: inlong-audit/pom.xml
+  last_updated_by: doleyzi
+  last_updated_on: 2023-08-17 10:15:25.000000000 Z
+- name: org.apache.flume:flume-ng-sdk
+  description: 'Flume Software Development Kit: Stable public API for integration
+    with Flume 1.x'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/pom.xml
+  detection_source: inlong-audit/pom.xml
+  last_updated_by: doleyzi
+  last_updated_on: 2023-08-17 10:15:25.000000000 Z
+- name: org.apache.hadoop:hadoop-common
+  description: Apache Hadoop Common
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.apache.hadoop:hadoop-hdfs
+  description: Apache Hadoop HDFS
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.apache.hadoop:hadoop-mapreduce-client-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.apache.hbase:hbase-client
+  description: Client of HBase
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.apache.hive:hive-exec
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/hudi/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/hudi/pom.xml
+  last_updated_by: megru
+  last_updated_on: 2023-07-10 11:46:58.000000000 Z
+- name: org.apache.hive:hive-jdbc
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.apache.hive:hive-metastore
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-core/pom.xml
+  detection_source: inlong-agent/agent-core/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.apache.httpcomponents:httpcore
+  description: Apache HttpComponents Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-common/pom.xml
+  detection_source: inlong-common/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.apache.kafka:kafka-clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-12-14 13:31:58.000000000 Z
+- name: org.apache.logging.log4j:log4j-api
+  description: The Apache Log4j API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: thesumery
+  last_updated_on: 2022-12-29 06:52:47.000000000 Z
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: thesumery
+  last_updated_on: 2022-12-29 06:52:47.000000000 Z
+- name: org.apache.logging.log4j:log4j-jcl
+  description: Log4j 2.0 Commons Logging Adapter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-10-16 03:36:17.000000000 Z
+- name: org.apache.logging.log4j:log4j-slf4j-impl
+  description: Binding between SLF4J API and Log4J2 Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: thesumery
+  last_updated_on: 2022-12-29 06:52:47.000000000 Z
+- name: org.apache.parquet:parquet-hadoop
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.15/sort-connectors/iceberg/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.15/sort-connectors/iceberg/pom.xml
+  last_updated_by: vernedeng
+  last_updated_on: 2023-09-18 03:59:16.000000000 Z
+- name: org.apache.poi:poi
+  description: Apache POI - Java API To Access Microsoft Format Files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-10 06:04:45.000000000 Z
+- name: org.apache.poi:poi-ooxml
+  description: Apache POI - Java API To Access Microsoft Format Files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-10 06:04:45.000000000 Z
+- name: org.apache.pulsar:pulsar-client
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.apache.shiro:shiro-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: thesumery
+  last_updated_on: 2022-12-29 06:52:47.000000000 Z
+- name: org.apache.shiro:shiro-spring
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-10 06:04:45.000000000 Z
+- name: org.apache.thrift:libfb303
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/hudi/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/hudi/pom.xml
+  last_updated_by: averyzhang
+  last_updated_on: 2022-12-09 02:45:20.000000000 Z
+- name: org.apache.thrift:libthrift
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk/pom.xml
+  detection_source: inlong-sdk/dataproxy-sdk/pom.xml
+  last_updated_by: castor
+  last_updated_on: 2023-11-28 08:31:42.000000000 Z
+- name: org.apache.tomcat.embed:tomcat-embed-core
+  description: Core Tomcat implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dataproxy/pom.xml
+  detection_source: inlong-dataproxy/pom.xml
+  last_updated_by: doleyzi
+  last_updated_on: 2023-08-17 10:15:25.000000000 Z
+- name: org.apache.zookeeper:zookeeper
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.assertj:assertj-core
+  description: Rich and fluent assertions for testing for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-manager/pom.xml
+  detection_source: inlong-tubemq/tubemq-manager/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.awaitility:awaitility
+  description: A Java DSL for synchronizing asynchronous operations
+  version: 4.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-connectors/tubemq-connector-flume/pom.xml
+  detection_source: inlong-agent/agent-core/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.checkerframework:checker-qual
+  description: Checker Qual is the set of annotations
+  version: 3.5.0
+  license: GPL-3.0-only,GPL-2.0-with-classpath-exception,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/postgres-cdc/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/postgres-cdc/pom.xml
+  last_updated_by: kuansix
+  last_updated_on: 2023-09-15 02:50:26.000000000 Z
+- name: org.codehaus.woodstox:stax2-api
+  description: Tax2 API is an extension to basic Stax 1.0 API that adds significant
+    new functionality
+  version: 4.2.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/hudi/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/hudi/pom.xml
+  last_updated_by: averyzhang
+  last_updated_on: 2022-12-09 02:45:20.000000000 Z
+- name: org.dom4j:dom4j
+  description: Flexible XML framework for Java
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.eclipse.jetty:jetty-server
+  description: The core jetty server artifact
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-core/pom.xml
+  detection_source: inlong-agent/agent-core/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-12 05:21:40.000000000 Z
+- name: org.eclipse.jetty:jetty-servlet
+  description: Jetty Servlet Container
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-core/pom.xml
+  detection_source: inlong-agent/agent-core/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-12 05:21:40.000000000 Z
+- name: org.eclipse.jetty:jetty-util
+  description: Utility classes for Jetty
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-core/pom.xml
+  detection_source: inlong-agent/agent-core/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-12 05:21:40.000000000 Z
+- name: org.eclipse.paho:org.eclipse.paho.client.mqttv3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2023-06-05 02:24:40.000000000 Z
+- name: org.elasticsearch.client:elasticsearch-rest-client
+  description: Elasticsearch subproject :client:rest
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.elasticsearch.client:elasticsearch-rest-high-level-client
+  description: Elasticsearch subproject :client:rest-high-level
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.elasticsearch.client:transport
+  description: Elasticsearch subproject :client:transport
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/elasticsearch-6/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/elasticsearch-6/pom.xml
+  last_updated_by: Hao
+  last_updated_on: 2023-12-01 02:52:33.000000000 Z
+- name: org.elasticsearch.plugin:transport-netty4-client
+  description: Netty 4 based transport implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/elasticsearch-6/pom.xml
+  detection_source: inlong-sort/sort-flink/sort-flink-v1.13/sort-connectors/elasticsearch-6/pom.xml
+  last_updated_by: Hao
+  last_updated_on: 2023-12-01 02:52:33.000000000 Z
+- name: org.elasticsearch:elasticsearch
+  description: Elasticsearch subproject :server
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.hamcrest:hamcrest-all
+  description: A self-contained hamcrest jar containing all of the sub-modules in
+    a single artifact
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/pom.xml
+  detection_source: inlong-sort/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-06-29 05:12:03.000000000 Z
+- name: org.ini4j:ini4j
+  description: Java API for handling configuration files in Windows .ini format
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-client-examples/pom.xml
+  detection_source: inlong-manager/manager-client-examples/pom.xml
+  last_updated_by: 宁培培
+  last_updated_on: 2022-06-25 04:48:28.000000000 Z
+- name: org.mockito:mockito-all
+  description: Mock objects library for java
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-connectors/tubemq-connector-flume/pom.xml
+  detection_source: inlong-tubemq/tubemq-connectors/tubemq-connector-flume/pom.xml
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.mybatis.spring.boot:mybatis-spring-boot-starter
+  description: Spring Boot Support for MyBatis
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.postgresql:postgresql
+  description: The PostgreSQL Driver JDBC4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.powermock:powermock-api-mockito2
+  description: PowerMock API for Mockito 2.+.
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.powermock:powermock-module-junit4
+  description: PowerMock support module for JUnit 4.x
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-plugins/pom.xml
+  detection_source: inlong-agent/agent-plugins/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.powermock:powermock-module-testng
+  description: PowerMock module for TestNG
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dataproxy/pom.xml
+  detection_source: inlong-dataproxy/pom.xml
+  last_updated_by: doleyzi
+  last_updated_on: 2023-08-17 10:15:25.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2023-06-05 02:24:40.000000000 Z
+- name: org.reflections:reflections
+  description: Reflections - a Java runtime metadata analysis
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-10 06:04:45.000000000 Z
+- name: org.rocksdb:rocksdbjni
+  description: RocksDB fat jar that contains .so files for linux32 and linux64
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2023-06-05 02:24:40.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-agent/agent-common/pom.xml
+  detection_source: inlong-agent/agent-common/pom.xml
+  last_updated_by: thesumery
+  last_updated_on: 2022-12-29 06:52:47.000000000 Z
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-client-tools/pom.xml
+  detection_source: inlong-manager/manager-client-tools/pom.xml
+  last_updated_by: haifxu
+  last_updated_on: 2022-09-17 09:03:28.000000000 Z
+- name: org.springframework.boot:spring-boot-autoconfigure
+  description: Spring Boot AutoConfigure
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/pom.xml
+  detection_source: inlong-manager/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-aop
+  description: Starter for aspect-oriented programming with Spring AOP and AspectJ
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-manager/pom.xml
+  detection_source: inlong-tubemq/tubemq-manager/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-jdbc
+  description: Starter for using JDBC with the HikariCP connection pool
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-dao/pom.xml
+  detection_source: inlong-manager/manager-dao/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2022-11-28 01:45:56.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-log4j2
+  description: Starter for using Log4j2 for logging
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-validation
+  description: Starter for using Java Bean Validation with Hibernate Validator
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-10 06:04:45.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-common/pom.xml
+  detection_source: inlong-manager/manager-common/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-10 06:04:45.000000000 Z
+- name: org.springframework:spring-beans
+  description: Spring Beans
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-audit/audit-store/pom.xml
+  detection_source: inlong-audit/audit-store/pom.xml
+  last_updated_by: Charles Zhang
+  last_updated_on: 2023-05-11 10:28:12.000000000 Z
+- name: org.springframework:spring-context
+  description: Spring Context
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.springframework:spring-core
+  description: Spring Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.springframework:spring-jdbc
+  description: Spring JDBC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.springframework:spring-orm
+  description: Spring Object/Relational Mapping
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-server/pom.xml
+  detection_source: inlong-tubemq/tubemq-server/pom.xml
+  last_updated_by: woofyzhao
+  last_updated_on: 2023-01-11 02:57:28.000000000 Z
+- name: org.springframework:spring-web
+  description: Spring Web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-test/pom.xml
+  detection_source: inlong-manager/manager-test/pom.xml
+  last_updated_by: healchow
+  last_updated_on: 2022-07-11 06:34:05.000000000 Z
+- name: org.testcontainers:postgresql
+  description: Testcontainers is a Java library that supports JUnit tests
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.13/pom.xml
+  detection_source: inlong-sort/sort-end-to-end-tests/sort-end-to-end-tests-v1.13/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-08-01 04:55:49.000000000 Z
+- name: org.testcontainers:testcontainers
+  description: Isolated container management for Java code testing
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: haibo.duan
+  last_updated_on: 2023-11-28 12:10:51.000000000 Z
+- name: org.xerial.snappy:snappy-java
+  description: 'Snappy-java: A fast compression/decompression library'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-common/pom.xml
+  detection_source: inlong-common/pom.xml
+  last_updated_by: baomingyu
+  last_updated_on: 2022-04-08 12:11:51.000000000 Z
+- name: redis.clients:jedis
+  description: Jedis is a blazingly small and sane Redis java client
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-manager/manager-service/pom.xml
+  detection_source: inlong-manager/manager-service/pom.xml
+  last_updated_by: feat
+  last_updated_on: 2023-04-04 03:38:39.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 3.2.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: cc0924
+  last_updated_on: 2023-08-24 02:21:28.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 3.2.8
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 3.2.10
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.184
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 13.13.52
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.41
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  version: 7.1.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: antd
+  description: An enterprise-class UI design language and React components implementation
+  package_url: https://www.npmjs.com/antd
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16201/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2023-03-31 06:40:22.000000000 Z
+- name: babel-plugin-import
+  description: Component modular import plugin for babel
+  package_url: https://www.npmjs.com/babel-plugin-import
+  version: 1.13.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: http-proxy-middleware
+  description: The one-liner node.js proxy middleware for connect
+  package_url: https://www.npmjs.com/http-proxy-middleware
+  version: 1.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 12.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: nprogress
+  description: Simple slim progress bars
+  package_url: https://www.npmjs.com/nprogress
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17061/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: gosonzhang
+  last_updated_on: 2021-07-06 02:30:02.000000000 Z
+- name: path-to-regexp
+  description: Express style path to RegExp utility
+  package_url: https://www.npmjs.com/path-to-regexp
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16316/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: postcss-less
+  description: LESS parser for PostCSS
+  package_url: https://www.npmjs.com/postcss-less
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17798/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: react-i18next
+  description: Internationalization for react done right
+  package_url: https://www.npmjs.com/react-i18next
+  version: 11.18.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-12-07 07:51:37.000000000 Z
+- name: source-map-explorer
+  description: Analyze and debug space usage through source maps
+  package_url: https://www.npmjs.com/source-map-explorer
+  version: 2.5.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17561/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: stylelint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/stylelint-config-prettier
+  version: 9.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16896/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: stylelint-config-standard
+  description: Standard shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-standard
+  version: 28.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-dashboard/package-lock.json
+  detection_source: inlong-dashboard/package.json
+  last_updated_by: Daniel
+  last_updated_on: 2022-08-30 06:57:23.000000000 Z
+- name: atomic
+  description: Wrapper types for sync/atomic which enforce atomic access
+  package_url: https://pkg.go.dev/go.uber.org/atomic
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: bpool
+  description: Buffer/Byte pool for Go
+  package_url: https://pkg.go.dev/github.com/oxtoacart/bpool
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-08-06 07:55:18.000000000 Z
+- name: bytebufferpool
+  description: Anti-memory-waste byte buffer pool
+  package_url: https://pkg.go.dev/github.com/valyala/bytebufferpool
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-08-06 07:55:18.000000000 Z
+- name: client_model
+  description: Data model artifacts for Prometheus
+  package_url: https://pkg.go.dev/github.com/prometheus/client_model
+  version: 0.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2024-02-01 10:08:05.000000000 Z
+- name: common
+  description: Go libraries shared across Prometheus components and libraries
+  package_url: https://pkg.go.dev/github.com/prometheus/common
+  version: 0.45.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2024-02-01 10:08:05.000000000 Z
+- name: compress
+  description: Optimized compression packages
+  package_url: https://pkg.go.dev/github.com/klauspost/compress
+  version: 1.17.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2024-02-01 10:08:05.000000000 Z
+- name: lumberjack.v2
+  description: Package lumberjack provides a rolling logger
+  package_url: https://pkg.go.dev/gopkg.in/natefinch/lumberjack.v2
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: net
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: perks
+  description: Effective Computation of Things
+  package_url: https://pkg.go.dev/github.com/beorn7/perks
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: procfs
+  description: Procfs provides functions to retrieve system
+  package_url: https://pkg.go.dev/github.com/prometheus/procfs
+  version: 0.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-11-01 01:51:41.000000000 Z
+- name: proto
+  description: Go support for Google's protocol buffers
+  package_url: https://pkg.go.dev/github.com/golang/protobuf/proto
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-client-twins/tubemq-client-go/go.mod
+  detection_source: inlong-tubemq/tubemq-client-twins/tubemq-client-go/go.mod
+  last_updated_by: Zijie Lu
+  last_updated_on: 2021-05-10 10:46:52.000000000 Z
+- name: snappy
+  description: The Snappy compression format in the Go programming language
+  package_url: https://pkg.go.dev/github.com/golang/snappy
+  version: 0.0.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-client-twins/tubemq-client-go/go.sum
+  detection_source: inlong-tubemq/tubemq-client-twins/tubemq-client-go/go.mod
+  last_updated_by: Zijie Lu
+  last_updated_on: 2021-10-02 11:03:20.000000000 Z
+- name: snowflake
+  description: A simple to use Go
+  package_url: https://pkg.go.dev/github.com/bwmarrin/snowflake
+  version: 0.3.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: zap
+  description: Blazing fast, structured, leveled logging in Go
+  package_url: https://pkg.go.dev/go.uber.org/zap
+  version: 1.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.sum
+  detection_source: inlong-sdk/dataproxy-sdk-twins/dataproxy-sdk-golang/go.mod
+  last_updated_by: gunli
+  last_updated_on: 2023-06-01 01:54:51.000000000 Z
+- name: pybind11
+  description: Seamless operability between C++11 and Python
+  package_url: https://pypi.org/project/pybind11
+  version: 2.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20050/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
+  detection_source_url: https://github.com/huhuhuHR/incubator-inlong/blob/master/inlong-tubemq/tubemq-client-twins/tubemq-client-python/requirements.txt
+  detection_source: inlong-tubemq/tubemq-client-twins/tubemq-client-python/requirements.txt
+  last_updated_by: gosonzhang
+  last_updated_on: 2020-11-03 03:08:35.000000000 Z
